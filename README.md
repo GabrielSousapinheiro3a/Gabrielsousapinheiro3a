@@ -1,16 +1,15 @@
-## Hi there 👋
+##  boas vindas ao meu perfil 💟
+here do this :
+meu nome é gabriel de sousa pinheiro
 
-<!--
-**GabrielSousapinheiro3a/Gabrielsousapinheiro3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando no alura
+- -estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organizacao e compartilham`nto dos meus projetos desenvolvido
+-
+- ### voce entrar em conrarto comigo 💟
 
-Here are some ideas to get you started:
+- @bielzinho0809
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/hvBu6Qw8SBUAAAAd/killua.gif)
+
+

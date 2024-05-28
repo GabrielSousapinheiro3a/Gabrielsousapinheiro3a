@@ -1,8 +1,8 @@
 ##  boas vindas ao meu perfil 💟
-here do this :
+
 meu nome é gabriel de sousa pinheiro
 
-- estou estudando no alura
+- estou estudando no [alura] (https://www.alura.com.br)
 - -estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para minha organizacao e compartilham`nto dos meus projetos desenvolvido
 -
